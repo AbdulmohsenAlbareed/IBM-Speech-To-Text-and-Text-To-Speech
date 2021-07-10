@@ -1,4 +1,4 @@
-# IBM-Speech-To-Text-Text-To-Speech
+# IBM-Speech-To-Text-and-Text-To-Speech
 
 - IBM تم برمجة أكواد باستخدام لغة البايثون لربط واستخدام خدمتين من 
 --------------------------------------------------------
